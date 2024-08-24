@@ -1,0 +1,51 @@
+.input{
+    width: 25rem;
+    padding: .4rem .8rem;
+    border: 1px solid gray;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.addBtn{
+    width: 6rem;
+    padding: .4rem .8rem;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background-color: rgb(66, 66, 220);
+    border: 0px;
+}
+.display{
+    margin-top: 1rem;
+
+}
+
+.line{
+width: 20rem;
+margin: 0px;
+background-color: gray;
+padding: .6rem .8rem;
+border-radius: 4px;
+
+
+}
+
+.delBtn{
+    width: 5rem;
+    padding: .6rem .8rem;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background-color: red;
+}
+.editBtn{
+    width: 5rem;
+    padding: .6rem .8rem;
+    border: 1px solid gray;
+    border-radius: 4px;
+    background-color: rgb(34, 195, 34);
+}
+
+ul{
+    list-style: none;
+    margin-top: 2rem; 
+    margin: 0px;
+}
